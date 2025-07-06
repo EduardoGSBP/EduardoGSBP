@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Eduardo Gabriel
 
-**`Desenvolvedora FullStack`**
+**`Estudante de ciencia de dados e machine learning`**
 
 Me chamo Eduardo Gabriel, tenho 17 anos e sou natural de Minas Gerais, Belo Horizonte. Estou fazendo o ensino médio na Escola Estadual Ordem e Progresso. Atualmente, estou cursando Ciencia de dados. Gosto muito de tecnologia.
 
