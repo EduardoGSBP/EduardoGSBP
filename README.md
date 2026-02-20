@@ -2,8 +2,7 @@
 
 **`Estudante de ciencia de dados e machine learning`**
 
-Me chamo Eduardo Gabriel, tenho 17 anos e sou natural de Minas Gerais, Belo Horizonte. Estou fazendo o ensino médio na Escola Estadual Ordem e Progresso. Atualmente, estou cursando Ciencia de dados. Gosto muito de tecnologia.
-
+Tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na PUC Minas, com foco em Engenharia de Dados. Possuo experiência prática em projetos de Análise de Dados, Data Science e Machine Learning, com ênfase em SQL, bancos de dados e manipulação de dados. Já desenvolvi projetos envolvendo coleta, limpeza, tratamento, análise e visualização de dados, utilizando Python e SQL, além da construção de modelos preditivos e automação de processos com Python e bibliotecas como Pandas, Scikit-Learn e Matplotlib. Tenho grande interesse em engenharia de dados, pipelines, Big Data e computação em nuvem, e estou sempre aprimorando meus conhecimentos por meio de cursos, projetos pessoais e desafios práticos na área de dados.
 
 
 
